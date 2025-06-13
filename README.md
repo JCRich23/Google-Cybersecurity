@@ -1,2 +1,2 @@
 # Google-Cybersecurity
-Portfolio assignments for the Google Cybersecurity certificate
+Portfolio assignments that I completed for the Google Cybersecurity certificate
